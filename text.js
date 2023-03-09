@@ -92,7 +92,7 @@ arr.sort((a, b) => {
     // If all values are equal, the order does not matter  
     return 0;
   });
-//   Display the sorted array in the console 
+//   Display the sorted  
 console.log(arr);
 
 
